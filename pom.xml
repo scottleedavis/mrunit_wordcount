@@ -25,5 +25,11 @@
             <artifactId>hadoop-archives</artifactId>
             <version>2.2.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.mrunit</groupId>
+            <artifactId>mrunit</artifactId>
+            <version>1.1.0</version>
+            <classifier>hadoop2</classifier>
+        </dependency>
     </dependencies>
 </project>
