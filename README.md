@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/skawtus/mrunit_wordcount.svg)](https://travis-ci.org/skawtus/mrunit_wordcount)
 MRUnit Wordcount
 ================
 
