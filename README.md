@@ -1,4 +1,5 @@
-mrunit_wordcount
+mrunit wordcount
 ================
 
-MRUnit example with wordcount app
+1.  typical 'word count' map reduce example app.
+2.  unit tests using MRUnit driver
